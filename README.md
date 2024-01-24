@@ -1,6 +1,6 @@
-<div align=right>	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpythonstrup%2Fhit-counter&count_bg=%23B6CD0D&title_bg=%230E1160&icon=github.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://github.com/910527ksj/shoppingmall)
-</div>
+<div align=right>	  
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpythonstrup%2Fhit-counter&count_bg=%23B6CD0D&title_bg=%230E1160&icon=github.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://github.com/910527ksj/shoppingmall)
+</div>  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 
