@@ -12,10 +12,7 @@
 
 <summary>
  <img src="https://img.shields.io/badge/Java-512BD4?style=flat&logo=Java&logoColor=white" />
-- mybatis
-- maven
-- jstl
-- oracle
+
 </summary>
 
 
