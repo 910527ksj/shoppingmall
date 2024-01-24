@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 # 쇼핑몰 프로젝트 Readme
 
 ---
@@ -131,3 +133,4 @@
     4-3. 보낸 메시지와 받은 메시지를 구분하여 createElement로 메시지마다 새로운 div를 만들어 출력하여 보여줍니다.  
     4-4. 주고 받은 메시지를 DB에 저장하고, 이전 메시지들을 다시 불러와 출력합니다.  
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
