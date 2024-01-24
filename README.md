@@ -10,7 +10,7 @@
 
 # 사용된 기술 스택
 
-<<summary>
+<summary>
 <img src="https://img.shields.io/badge/Java-512BD4?style=flat&logo=Java&logoColor=white" />
 - mybatis
 - maven
