@@ -10,12 +10,15 @@
 
 # 사용된 기술 스택
 
-- <img src="https://img.shields.io/badge/Java-512BD4?style=flat&logo=Java&logoColor=white" />
+<<summary>
+<img src="https://img.shields.io/badge/Java-512BD4?style=flat&logo=Java&logoColor=white" />
 - mybatis
 - maven
 - jstl
 - oracle
-- #F7DF1E
+</summary>
+
+
 
 ## 팀원 소개 & 담담 기능 소개
 
