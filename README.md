@@ -13,7 +13,7 @@
 # 사용된 기술 스택
 
 
-<img src="https://img.shields.io/badge/add-#C71A36?style=flat&logo=Apache Maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/add-#C71A36?style=flat&logo=apachemaven&logoColor=white"/>
 
 
 ## 팀원 소개 & 담담 기능 소개
