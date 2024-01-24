@@ -11,7 +11,7 @@
 # 사용된 기술 스택
 
 <summary>
- <[img src="https://img.shields.io/badge/Java-512BD4?style=flat&logo=Java&logoColor=white" /](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)>
+ <img:src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </summary>
 
 
