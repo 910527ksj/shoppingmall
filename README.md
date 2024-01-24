@@ -1,6 +1,6 @@
 <div align=right>	
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysjang0926&count_bg=%23D7D265&title_bg=%23252222&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/910527ksj/shoppingmall)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F910527ksj%2Fshoppingmall&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=150&section=header" />
@@ -71,8 +71,8 @@
 6. 회원은 등록된 상품에 리뷰와 문의를 할 수 있습니다.
 7. 단 회원의 리뷰는 상품당 한개만 작성 가능 합니다.
 8. 관리자는 문의에 답변 할 수 있고 답변을 수정,삭제 할 수 있습니다.
-9. 회원은 관리자와 1:1 상담을 할수있습니다.
-10. 관리자는 회원들과 1:N 상담을 할수있습니다.
+9. 회원은 관리자와 1:1 상담을 할 수 있습니다.
+10. 관리자는 회원들과 1:N 상담을 할 수 있습니다.
 ```
 
 ---
