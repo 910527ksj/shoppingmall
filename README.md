@@ -11,7 +11,7 @@
 # 사용된 기술 스택
 
 <summary>
- (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+ ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 </summary>
 
 ## 팀원 소개 & 담담 기능 소개
