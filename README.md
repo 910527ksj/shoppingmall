@@ -12,7 +12,8 @@
 
 # 사용된 기술 스택
 
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![mybatis](https://img.shields.io/badge/mybatis-100000?style=for-the-badge&logo=mybatis&logoColor=white)
 
 ## 팀원 소개 & 담담 기능 소개
 
