@@ -13,7 +13,7 @@
 # 사용된 기술 스택
 
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![mybatis]<img src="https://img.shields.io/badge/Apache Maven-#C71A36?style=flat&logo=Apache Maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Maven-#C71A36?style=flat&logo=Apache Maven&logoColor=white"/>
 
 ## 팀원 소개 & 담담 기능 소개
 
