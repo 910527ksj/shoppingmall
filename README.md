@@ -12,9 +12,7 @@
 
 # 사용된 기술 스택
 
-<summary>
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-</summary>
 
 ## 팀원 소개 & 담담 기능 소개
 
