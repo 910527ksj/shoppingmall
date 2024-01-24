@@ -14,6 +14,7 @@
 
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 <img src="https://img.shields.io/badge/apachemaven-#C71A36?style=flat&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 
 ## 팀원 소개 & 담담 기능 소개
 
