@@ -1,3 +1,5 @@
+
+<img src="https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 # 쇼핑몰 프로젝트 Readme
@@ -14,7 +16,6 @@
 
 
 
-<img src="https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
 
 ## 팀원 소개 & 담담 기능 소개
